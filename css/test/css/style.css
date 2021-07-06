@@ -1,0 +1,20 @@
+.box__red{
+    background-color: red;
+}
+.box__blue{
+    background-color: blue;
+}
+.box__yellow{
+    background-color: yellow;
+}
+.box__green{
+    background-color: green;
+}
+.box{
+    width: 200px;
+    height: 100px;
+    font-size: 20px;
+    font-weight: bold;
+    display: inline-block;
+    
+}
